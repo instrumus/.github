@@ -1,3 +1,1 @@
-# Instrumus
-
-Hey there 👋🏻.
+👋🏻
